@@ -1,0 +1,2 @@
+# Architecture
+Collection of Architecture
